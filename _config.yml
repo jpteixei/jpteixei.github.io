@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "João Pedro Teixeira de Quadros"
+title                    : "João Pedro Pages"
 title_separator          : "-"
 name                     : &name "João Pedro Teixeira de Quadros"
 description              : &description "personal description"
@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "my_picture.jpeg"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/his"# example: "she/her"  
+  bio              : "Electrical Engineer Undergratuate Student at UFSC, Brazil. Interested in numerical methods."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Federal University of Santa Catarina (UFSC)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jpteixei@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "jpteixei"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
