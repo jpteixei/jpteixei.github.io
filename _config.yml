@@ -77,7 +77,7 @@ author:
   youtube          : # Username
   zhihu            : # Username
   links:
-      - label: "Currículo Lattes"
+        label: "Currículo Lattes"
         icon: "fas fa-fw fa-file-pdf"
         url: "http://lattes.cnpq.br/SEU_ID_AQUI"
 
