@@ -76,10 +76,6 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  links:
-        label: "Currículo Lattes"
-        icon: "fas fa-fw fa-file-pdf"
-        url: "http://lattes.cnpq.br/SEU_ID_AQUI"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
