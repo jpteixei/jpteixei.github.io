@@ -76,7 +76,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  lattes           : "https://lattes.cnpq.br/6101487035122677" # Update with the correct link to your Lattes CV
+  #lattes           : "https://lattes.cnpq.br/6101487035122677" # Update with the correct link to your Lattes CV
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
