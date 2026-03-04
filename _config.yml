@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "pt-BR"
 site_theme               : "default"
-title                    : "João Pedro Pages"
+title                    : "João Pedro T. Q."
 title_separator          : "-"
 name                     : &name "João Pedro Teixeira de Quadros"
 description              : &description "personal description"
@@ -23,10 +23,10 @@ repository               : "jpteixei/jpteixei.github.io"
 author:
   # Biographic information
   avatar           : "my_picture.jpeg"
-  name             : "Your Sidebar Name"
+  name             : "Links"
   pronouns         : "he/his"# example: "she/her"  
   bio              : "Electrical Engineer Undergratuate Student at UFSC, Brazil. Interested in numerical methods."
-  location         : "Earth"
+  location         : "Florianópolis, Santa Catarina, Brasil"
   employer         : "UFSC"
   uri              : # URL
   email            : "jpteixei@gmail.com" 
