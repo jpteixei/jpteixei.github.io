@@ -13,7 +13,7 @@ title                    : "João Pedro T. Q."
 title_separator          : "-"
 name                     : &name "João Pedro Teixeira de Quadros"
 description              : &description "personal description"
-url                      : https://jpteixei.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://jpteixei.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jpteixei/jpteixei.github.io"
 
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : "https://www.instagram.com/joao.pedro.t/"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "www.linkedin.com/in/joão-pedro-teixeira-de-quadros-149534372"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
