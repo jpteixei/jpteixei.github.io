@@ -11,8 +11,8 @@ main:
   - title: "Publicações"
     url: /publicacoes/
 
-  - title: "Produção"
-    url: /producao/    
+  #- title: "Produção"
+  #  url: /producao/    
 
   - title: "Notas"
     url: /notas/    
