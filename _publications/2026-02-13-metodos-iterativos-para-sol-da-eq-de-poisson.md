@@ -1,5 +1,6 @@
 ---
 title: "Métodos Iterativos para a Solução da Equação de Poisson"
+mathjax: true
 collection: publications
 category: manuscripts
 permalink: /publicacoes/2026-02-13-metodos-iterativos-para-sol-da-eq-de-poisson
