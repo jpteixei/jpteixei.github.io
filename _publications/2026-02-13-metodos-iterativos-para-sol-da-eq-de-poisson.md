@@ -12,7 +12,7 @@ paperurl: 'https://proceedings.sbmac.org.br/sbmac/article/view/5197'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'QUADROS, J. P. T; CALEGARI, P. C. .(2026). &quot;Métodos Iterativos para a Solução da Equação de Poisson".&quot; <i>Proceeding Series of the Brazilian Society of Computational and Applied Mathematics</i>. v. 12. n. 1.'
 ---
-A equação de Poisson modela diversos problemas de equilíbrio, isto é, problemas em que as propriedades de interesse são invariantes no tempo. Dentre eles,  a distribuição de um Potencial Eletrostático $V$, em um domínio dielétrico $ \Omega $, de permissividade elétrica $ \epsilon $ em que há uma distribuição de cargas $ \rho(x, y) $.
+A equação de Poisson modela diversos problemas de equilíbrio, isto é, problemas em que as propriedades de interesse são invariantes no tempo. Dentre eles,  a distribuição de um Potencial Eletrostático $V$, em um domínio dielétrico $ \Omega $, de permissividade elétrica $ \epsilon $ em que há uma distribuição de cargas \\(\rho(x, y) \\).
 
 $$- \dfrac{\partial^2 V}{\partial x^2} - \dfrac{\partial^2 V}{\partial y^2} =  \dfrac{\rho(x,y)}{\epsilon}.$$
 
