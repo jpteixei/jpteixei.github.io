@@ -2,7 +2,7 @@
 title: "Métodos Iterativos para a Solução da Equação de Poisson"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-02-13-metodos-iterativos-para-sol-da-eq-de-poisson
+permalink: /publicacoes/2026-02-13-metodos-iterativos-para-sol-da-eq-de-poisson
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2026-02-13
 venue: 'Proceeding Series of the Brazilian Society of Computational and Applied Mathematics'
