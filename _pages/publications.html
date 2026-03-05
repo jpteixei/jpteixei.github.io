@@ -6,6 +6,24 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
+  <div class="wordwrap">Você também pode encontrar meus artigos no meu <a href="{{site.author.googlescholar}}">perfil do Google Scholar</a>.</div>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% comment %}
+---
+layout: archive
+title: "Publicações"
+permalink: /publicacoes/
+author_profile: true
+---
+
+{% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
@@ -31,6 +49,7 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
+{% endcomment %}
 
 
 
