@@ -15,4 +15,4 @@ A equação de Poisson modela diversos problemas de equilíbrio, isto é, proble
 
 $$- \dfrac{\partial^2 V}{\partial x^2} - \dfrac{\partial^2 V}{\partial y^2} =  \dfrac{\rho(x,y)}{\epsilon}.$$
 
-O objetivo do presente trabalho é avaliar a eficiência de métodos iterativos para a solução do sistema linear oriundo da discretização da equação de Poisson \eqref{POT_ELETRICO} com, $\rho(x,y) = 8 \pi ^2sen(2\pi x)sen(2\pi y)$ e $\epsilon = 1.0$, em um domínio $\Omega : [0, 1] \times [0, 1]$ com condições de contorno Dirichlet.
+O objetivo do presente trabalho é avaliar a eficiência de métodos iterativos para a solução do sistema linear oriundo da discretização da equação de Poisson com, $\rho(x,y) = 8 \pi ^2sen(2\pi x)sen(2\pi y)$ e $\epsilon = 1.0$, em um domínio $\Omega : [0, 1] \times [0, 1]$ com condições de contorno Dirichlet.
