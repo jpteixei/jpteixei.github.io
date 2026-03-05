@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: #"Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Olá, meu nome é João Pedro 😁"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Olá, meu nome é João Pedro 😁
+Sou estudante de engenharia elétrica na Universidade Federal de Santa Catarina e, atualmente, sou bolsista PIBIC com o projeto **Solução numérica das equações de Poisson e Helmholtz em malhas adaptativas**.
