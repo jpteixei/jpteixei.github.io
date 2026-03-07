@@ -11,9 +11,9 @@ redirect_from:
 
 Formação acadêmica
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2024: Graduação em andamento em Engenharia Elétrica na Universidade Federal de Santa Catarina, Florianópolis.
+* 2020 - 2023: Graduação em Engenharia Eletrônica no IFSC, Florianópolis interrompida em 2023.
+* 2017 - 2019: Ensino médio. Colégio Marista Champagnat, Porto Alegre.
 
 Work experience
 ======
