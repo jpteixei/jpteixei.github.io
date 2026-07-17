@@ -16,4 +16,4 @@ A equação de Poisson é uma Equação Diferencial Parcial Elíptica que aparec
 
 $$- \dfrac{\partial^2 \phi}{\partial x^2} - \dfrac{\partial^2 \phi}{\partial y^2} =  f(x,y),$$
 
-sendo \\( \phi(x,y) \\) uma propriedade a ser determinada e \\( f(x,y) \\) o termo fonte. A equação foi discretizada pelo método das diferenças finitas centrada nos nós, em um domínio \\(\Omega = [0,1]^2 \\). Comparou-se a eficiência entre os métodos Multigrid, CGS e BICGSTAB na solução do sistema linear oriunda da discretização da equação.
+sendo \\( \phi(x,y) \\) uma propriedade a ser determinada e \\( f(x,y) \\) o termo fonte. A equação foi discretizada pelo método das diferenças finitas centrada nos nós, em um domínio \\(\Omega = [0,1]^2 \\). Comparou-se a eficiência entre os métodos Multigrid, CGS e BICGSTAB na solução do sistema linear oriundo da discretização da equação.
