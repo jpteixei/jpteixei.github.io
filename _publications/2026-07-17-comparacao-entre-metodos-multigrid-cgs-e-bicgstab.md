@@ -10,10 +10,10 @@ venue: 'Anais do III Encontro Regional de Matemática Aplicada e Computacional d
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.even3.com.br/anais/ermac-sc-2026-632874/1438079-comparacao-entre-metodos-multigrid-cgs-e-bicgstab-na-solucao-da-equacao-de-poisson/'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'QUADROS, J. P. T; CALEGARI, P. C. .(2026). &quot;Comparação Entre Métdos Multigrid, CGS e BICGSTAB na solução da Equação de Poisson".&quot; <i>Anais do III Encontro Regional de Matemática Aplicada e Computacional de Santa Catarina.</i>'
+citation: 'QUADROS, J. P. T; CALEGARI, P. C. Comparação Entre Métdos Multigrid, CGS e BICGSTAB na solução da Equação de Poisson. <i>Anais do III Encontro Regional de Matemática Aplicada e Computacional de Santa Catarina.</i> 2026.'
 ---
-A equação de Poisson modela diversos problemas de equilíbrio, isto é, problemas em que as propriedades de interesse são invariantes no tempo. Dentre eles,  a distribuição de um Potencial Eletrostático $V$, em um domínio dielétrico \\(\Omega\\), de permissividade elétrica \\(\epsilon\\) em que há uma distribuição de cargas \\(\rho(x, y) \\).
+A equação de Poisson é uma Equação Diferencial Parcial Elíptica que aparece frequentemente em modelos matemáticos, como o problema da distribuição de um potencial eletrostático ou na solução da equação de Navier-Stokes em escoamentos incompressíveis.
 
-$$- \dfrac{\partial^2 V}{\partial x^2} - \dfrac{\partial^2 V}{\partial y^2} =  \dfrac{\rho(x,y)}{\epsilon}.$$
+$$- \dfrac{\partial^2 \phi}{\partial x^2} - \dfrac{\partial^2 \phi}{\partial y^2} =  f(x,y),$$
 
-O objetivo do presente trabalho é avaliar a eficiência de métodos iterativos para a solução do sistema linear oriundo da discretização da equação de Poisson com, \\(\rho(x,y) = 8 \pi ^2sen(2\pi x)sen(2\pi y)\\) e \\(\epsilon = 1.0\\), em um domínio \\(\Omega : [0, 1] \times [0, 1]\\) com condições de contorno Dirichlet.
+sendo \( \phi(x,y) \) uma propriedade a ser determinada e \( f(x,y) \) o termo fonte. A equação foi discretizada pelo método das diferenças finitas centrada nos nós, em um domínio \(\Omega = [0,1]^2 \). Comparou-se a eficiência entre os métodos Multigrid, CGS e BICGSTAB na solução do sistema linear oriunda da discretização da equação.
